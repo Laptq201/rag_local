@@ -6,6 +6,9 @@ In this project, I am working on a simple RAG (Retrieval-Augmented Generation) u
 - Some utility functions for PDF processing and text embedding is in chunk_text.py, extract_text.py, and get_PDF_file.py.
 - The main logic is in the rag_chroma_llama3_2.py file.
 
+
+![image](images/image1.png)
+
 ### Tasks:
 - [x] Try with **ChromaDB**.
 - [ ] Implement additional techniques (e.g., for table data processing).
