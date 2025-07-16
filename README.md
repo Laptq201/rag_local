@@ -1,4 +1,4 @@
-# rag_practice
+# rag_local
 
 In this project, I am working on a simple RAG (Retrieval-Augmented Generation) using a PDF source. I am utilizing **Llama 3.2** as the model and the **nomic-embed-text** embedding model, along with some vector databases.
 
